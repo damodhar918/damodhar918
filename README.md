@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdamodhar918&count_bg=%2379C83D&title_bg=%23555555&icon=steem.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/damodhar918)
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damodhar918/)](https://www.linkedin.com/in/damodhar918/)
 [![Mail Badge](https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:damodhar918@outlook.com)](mailto:damodhar918@outlook)
 # Hello, I'm Damodhar! 👋
